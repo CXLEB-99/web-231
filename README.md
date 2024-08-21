@@ -1,2 +1,4 @@
-# web-231
-For web-231 Bellevue
+# WEB 231 Enterprise JavaScript 1
+## Contributors
+- Instructor: R. Krasso
+- Caleb Goforth 
